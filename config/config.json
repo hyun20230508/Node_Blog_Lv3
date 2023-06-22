@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "4321aaaa",
+    "database": "node_blog_lv3",
+    "host": "express-batabase.cr8zrzz16qid.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
